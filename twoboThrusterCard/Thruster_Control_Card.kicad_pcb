@@ -132,7 +132,6 @@
 			(psnegative no)
 			(psa4output no)
 			(plot_black_and_white yes)
-			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(plotpadnumbers no)
 			(hidednponfab no)
@@ -8438,6 +8437,26 @@
 		(layer "Edge.Cuts")
 		(uuid "03a296d7-f503-4328-878e-65918e5b4c33")
 	)
+	(gr_line
+		(start 260.1 49)
+		(end 150.1 49)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "05c5f6d6-e520-4533-a4e0-f3904db0725f")
+	)
+	(gr_line
+		(start 260.1 124)
+		(end 150.1 124)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "0ad5e0c4-64bf-445b-8f3b-734409468a16")
+	)
 	(gr_arc
 		(start 208.5 86)
 		(mid 208.207107 86.707107)
@@ -8513,16 +8532,15 @@
 		(layer "Edge.Cuts")
 		(uuid "2bd9b817-398b-4692-8aa7-df5163a77a17")
 	)
-	(gr_rect
-		(start 150.1 49)
-		(end 250.1 110.9)
+	(gr_line
+		(start 150.1 124)
+		(end 150.1 49)
 		(stroke
-			(width 0.1)
+			(width 0.05)
 			(type default)
 		)
-		(fill no)
 		(layer "Edge.Cuts")
-		(uuid "3ed2518a-55dd-4399-8db7-f0851dd7decd")
+		(uuid "33530b83-47f4-4e5a-a5e7-7765dd963b33")
 	)
 	(gr_arc
 		(start 230.999975 56.707107)
@@ -8753,6 +8771,16 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "e089d1ae-ff82-4105-82b3-4eeed3df7eb3")
+	)
+	(gr_line
+		(start 260.1 124)
+		(end 260.1 49)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "f0cc9149-8c3d-4e20-b8c0-bf0147ca861d")
 	)
 	(gr_line
 		(start 191.499975 56.714214)
