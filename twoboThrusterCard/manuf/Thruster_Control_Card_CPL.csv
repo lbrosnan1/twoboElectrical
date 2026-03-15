@@ -1,0 +1,25 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C8,1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,153.8,-60.8,0,bottom
+C5,100nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,151.3,-64.9875,90,bottom
+C6,100nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,153.3,-64.9875,-90,bottom
+C7,100nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,157.3,-65.7,-90,bottom
+U1,~,ESC,180,-71.35,180,bottom
+U2,~,ESC,200,-71.35,180,bottom
+U3,~,ESC,220,-71.35,180,bottom
+U4,~,ESC,239.5,-71.35,180,bottom
+R1,1k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,153.3,-53.325,180,top
+C4,4.7uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,152.625,-77.925,0,top
+R6,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,169.3,-64.5,-90,top
+C9,22uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,164.275,-89.825,180,top
+T_C1,100nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,161.86,-85.74,0,top
+T_C3,100nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,165.575,-81.3125,90,top
+SW1,EG1218,slide_switch_EGER1218_Thruster,168.9,-79.6,180,top
+C1,20pf,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,154.0675,-71,180,top
+C2,20pf,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,151.7425,-71,180,top
+J1,~,6509475,239.522,-104.902,0,top
+J7,Screw_Terminal_01x02,screw_junc_254_2by1,154.025,-82.22,-90,top
+D1,Green,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,153.25,-55.85,180,top
+J6,Screw_Terminal_01x03,screw_junc_254_3by1,161.16,-55.4,180,top
+U5,STM32G0B1RETx,LQFP-64_10x10mm_P0.5mm,161,-66.1,0,top
+U6,ATA6561-GAQW-N,SOIC8_4P9X3P9MC_MCH,161.795,-81.04,-90,top
+U7,~,YSX321SC_HSE_Oscillator,152.875,-73.55,0,top

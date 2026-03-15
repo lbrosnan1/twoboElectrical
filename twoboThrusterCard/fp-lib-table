@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Thruster_Control_Card_Custom_Footprints")(type "KiCad")(uri "${KIPRJMOD}/Thruster_Control_Card_Custom_Footprints.pretty")(options "")(descr ""))
+)
