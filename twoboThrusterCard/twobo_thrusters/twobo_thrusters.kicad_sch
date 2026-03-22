@@ -8125,7 +8125,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
+		(property "Value" "+3.3V"
 			(at 133.35 119.3799 90)
 			(effects
 				(font
@@ -8532,8 +8532,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+5V"
-			(at 45.72 90.17 90)
+		(property "Value" "+3.3V"
+			(at 45.72 90.1699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8869,7 +8869,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Samtec Custom:Samtec_HLE-140-02-L-DV-PE_2x40_P2.54mm_Horizontal"
+		(property "Footprint" "custom_components:Samtec_HLE-140-02-L-DV-PE_2x40_P2.54mm_Horizontal"
 			(at 147.32 83.82 0)
 			(effects
 				(font
