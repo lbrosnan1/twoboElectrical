@@ -1,4 +1,4 @@
-26643481279852494
+26648809493343669
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106253,6 +106253,13 @@ Varistor VF
 2
 2
 customRAM
+1.25__FUSECLIPS
+BOWED LEADS!!!! 1.25" long fuse clips.
+
+0
+4
+4
+customRAM
 240W_CONV
 
 
@@ -106281,9 +106288,23 @@ CONV_TSR_2-2450
 3
 3
 customRAM
+JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical
+JST PH series connector, B2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH vertical
+0
+2
+2
+customRAM
 SAMTEC_HLE-140-02-L-DV-PE
 
 
 0
 80
 80
+customRAM
+SUPERSABRE_2CIRCUIT
+
+
+0
+2
+2
