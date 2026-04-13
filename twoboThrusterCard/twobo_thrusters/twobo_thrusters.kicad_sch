@@ -5866,6 +5866,16 @@
 	)
 	(wire
 		(pts
+			(xy 227.33 50.8) (xy 227.33 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a4e2c6e-dca1-4779-8d85-9a443a3b37c6")
+	)
+	(wire
+		(pts
 			(xy 87.63 72.39) (xy 91.44 72.39)
 		)
 		(stroke
@@ -5903,6 +5913,16 @@
 			(type default)
 		)
 		(uuid "112f6a09-1945-4920-b6b5-d914a07c65ad")
+	)
+	(wire
+		(pts
+			(xy 237.49 50.8) (xy 237.49 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1588b72c-19bf-4ef8-a4eb-94daec205f9d")
 	)
 	(wire
 		(pts
@@ -5963,6 +5983,16 @@
 			(type default)
 		)
 		(uuid "21986989-ebe8-4bc7-88e3-5f6142303e3b")
+	)
+	(wire
+		(pts
+			(xy 234.95 50.8) (xy 234.95 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23bceb43-aa66-4be1-9d4f-12e37c58471e")
 	)
 	(wire
 		(pts
@@ -6086,6 +6116,16 @@
 	)
 	(wire
 		(pts
+			(xy 217.17 50.8) (xy 217.17 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d6bac0e-81f5-4daf-8cb8-366af1cf48e7")
+	)
+	(wire
+		(pts
 			(xy 137.16 119.38) (xy 142.24 119.38)
 		)
 		(stroke
@@ -6103,6 +6143,16 @@
 			(type default)
 		)
 		(uuid "61108ace-9105-439c-a955-11a414093f60")
+	)
+	(wire
+		(pts
+			(xy 219.71 50.8) (xy 219.71 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "677f017e-1e18-40fb-8105-7f5ca5b9e8da")
 	)
 	(wire
 		(pts
@@ -6236,6 +6286,16 @@
 	)
 	(wire
 		(pts
+			(xy 224.79 50.8) (xy 224.79 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1936818-f776-44fa-8d2c-2cab92390dea")
+	)
+	(wire
+		(pts
 			(xy 40.64 87.63) (xy 66.04 87.63)
 		)
 		(stroke
@@ -6296,6 +6356,16 @@
 	)
 	(wire
 		(pts
+			(xy 222.25 50.8) (xy 222.25 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bafb6b0b-38b0-435d-9321-26a38c7451dc")
+	)
+	(wire
+		(pts
 			(xy 40.64 97.79) (xy 66.04 97.79)
 		)
 		(stroke
@@ -6323,6 +6393,16 @@
 			(type default)
 		)
 		(uuid "be2d176c-b949-48fe-9d4e-c339a85fe495")
+	)
+	(wire
+		(pts
+			(xy 229.87 50.8) (xy 229.87 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c300ffd1-4c7d-4863-9dab-0c46f89f2a20")
 	)
 	(wire
 		(pts
@@ -6373,6 +6453,16 @@
 			(type default)
 		)
 		(uuid "d3666a09-8c3f-4cbd-8587-c248c05eac55")
+	)
+	(wire
+		(pts
+			(xy 232.41 50.8) (xy 232.41 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3cf6e8d-fd27-464d-97be-4d2238f84eaa")
 	)
 	(wire
 		(pts
@@ -6465,7 +6555,7 @@
 		(uuid "ff122601-7f6e-4fc0-9c85-85c0b8fb902b")
 	)
 	(label "B3"
-		(at 234.95 48.26 90)
+		(at 234.95 50.8 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6475,7 +6565,7 @@
 		(uuid "05368bce-f25f-4ac5-b2bf-d3d357496205")
 	)
 	(label "A3"
-		(at 232.41 48.26 90)
+		(at 232.41 50.8 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6495,7 +6585,7 @@
 		(uuid "2b340f08-967d-4ab0-9827-00cdcaa59d5a")
 	)
 	(label "A1"
-		(at 217.17 48.26 90)
+		(at 217.17 50.8 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6545,7 +6635,7 @@
 		(uuid "452463a3-5ceb-4e2d-bc4c-f896ea8fd4d9")
 	)
 	(label "C2"
-		(at 229.87 48.26 90)
+		(at 229.87 50.8 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6575,7 +6665,7 @@
 		(uuid "6b949e03-a6d8-4845-99d0-4e66e9250c2b")
 	)
 	(label "B2"
-		(at 227.33 48.26 90)
+		(at 227.33 50.8 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6595,7 +6685,7 @@
 		(uuid "7eca048b-3758-4219-847f-1990470e36b5")
 	)
 	(label "B1"
-		(at 219.71 48.26 90)
+		(at 219.71 50.8 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6605,7 +6695,7 @@
 		(uuid "8798608c-0e5b-447d-9742-efa088defc7e")
 	)
 	(label "A2"
-		(at 224.79 48.26 90)
+		(at 224.79 50.8 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6685,7 +6775,7 @@
 		(uuid "d51671f0-e297-48cf-ba73-ebfd7f680c3f")
 	)
 	(label "C3"
-		(at 237.49 48.26 90)
+		(at 237.49 50.8 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6715,7 +6805,7 @@
 		(uuid "e2876662-54c6-4edc-a57c-eb1d335d64f0")
 	)
 	(label "C1"
-		(at 222.25 48.26 90)
+		(at 222.25 50.8 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7341,7 +7431,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43650-0915_1x09_P3.00mm_Vertical"
+		(property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43650-0900_1x09_P3.00mm_Horizontal"
 			(at 227.33 43.18 0)
 			(effects
 				(font
