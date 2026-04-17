@@ -4343,6 +4343,89 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "New_Library:PCA9685"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -5775,36 +5858,208 @@
 		(uuid "fdac4db3-89f7-44e7-896b-30597edd66a1")
 	)
 	(no_connect
+		(at 154.94 40.64)
+		(uuid "00a64f1c-ae2b-4900-b4c1-5c6e39b8b43e")
+	)
+	(no_connect
 		(at 87.63 100.33)
 		(uuid "00c2e5a9-7855-4e64-8b4c-0ffbcb1c41ab")
+	)
+	(no_connect
+		(at 142.24 53.34)
+		(uuid "10fd37f5-da8f-4f5d-80e7-0e29c3c3f4f2")
+	)
+	(no_connect
+		(at 142.24 71.12)
+		(uuid "11156ee9-3018-4e63-8f9e-2013deee9d80")
 	)
 	(no_connect
 		(at 87.63 105.41)
 		(uuid "16c5c6c2-62d6-4144-ada6-080e55fe2bbd")
 	)
 	(no_connect
+		(at 154.94 68.58)
+		(uuid "18de2fe4-cabe-475b-9a06-d89b2b329578")
+	)
+	(no_connect
+		(at 154.94 86.36)
+		(uuid "205c9ec7-2f3e-4e85-b01e-f8216faf7698")
+	)
+	(no_connect
+		(at 142.24 78.74)
+		(uuid "2131375e-7469-44ec-94ed-caaff50df630")
+	)
+	(no_connect
+		(at 142.24 106.68)
+		(uuid "2456c531-de92-4d30-bdce-b584a8ec909a")
+	)
+	(no_connect
+		(at 142.24 40.64)
+		(uuid "25642f9e-c65b-4672-9098-a53ebc8bba00")
+	)
+	(no_connect
+		(at 142.24 66.04)
+		(uuid "281691e0-8360-46bf-bed4-a151d4fded05")
+	)
+	(no_connect
+		(at 142.24 91.44)
+		(uuid "29ed50fb-3383-4136-9f5e-13d9ae8b1ddf")
+	)
+	(no_connect
 		(at 87.63 80.01)
 		(uuid "2f68a81e-8ff4-496f-8d9d-d584be95f6aa")
+	)
+	(no_connect
+		(at 154.94 81.28)
+		(uuid "35d12ab4-26f6-48bf-b6d5-125126506d2e")
+	)
+	(no_connect
+		(at 142.24 43.18)
+		(uuid "36b4fab9-3717-474d-a510-2f47db03cc07")
+	)
+	(no_connect
+		(at 142.24 111.76)
+		(uuid "3a6c4c39-4e93-4227-907f-2bb158c84291")
+	)
+	(no_connect
+		(at 142.24 83.82)
+		(uuid "3cb1b03f-323c-4d36-8b93-f8dc0c2facd5")
+	)
+	(no_connect
+		(at 154.94 73.66)
+		(uuid "43158a5f-828d-45c9-b155-c5b132ee0256")
+	)
+	(no_connect
+		(at 154.94 106.68)
+		(uuid "44c9ce51-67e9-4c92-9acd-efcf7020e5bf")
 	)
 	(no_connect
 		(at 87.63 102.87)
 		(uuid "4cbd3924-bac9-4d65-b79e-bf3e862328fb")
 	)
 	(no_connect
+		(at 142.24 76.2)
+		(uuid "4fcd94ba-0c01-476a-b2a5-e5fc44a31a6d")
+	)
+	(no_connect
 		(at 87.63 85.09)
 		(uuid "51c372dd-da0e-4d73-b278-c1b5497a6f9e")
+	)
+	(no_connect
+		(at 154.94 111.76)
+		(uuid "55b17b1d-e531-49d8-8fd2-5c5941561aea")
 	)
 	(no_connect
 		(at 87.63 110.49)
 		(uuid "57d2dda0-d71a-415a-8c90-8daf65a06a49")
 	)
 	(no_connect
+		(at 154.94 114.3)
+		(uuid "5b62eb67-3019-417b-b1c3-88e505e91c3b")
+	)
+	(no_connect
+		(at 154.94 48.26)
+		(uuid "610263bc-7276-4863-93e1-4b8de1c233d8")
+	)
+	(no_connect
+		(at 154.94 55.88)
+		(uuid "65878492-a6a9-4b56-91ea-54407690e8c8")
+	)
+	(no_connect
+		(at 154.94 109.22)
+		(uuid "6636ef8b-f3d5-4504-aa2e-41559db53e96")
+	)
+	(no_connect
+		(at 142.24 114.3)
+		(uuid "6b3b6a31-4798-4ef1-9572-07ed3dc5a84e")
+	)
+	(no_connect
+		(at 142.24 50.8)
+		(uuid "6e6eef8a-0264-481c-82e8-6adf41508f90")
+	)
+	(no_connect
+		(at 142.24 88.9)
+		(uuid "7a1c56c4-4ec4-45b7-8713-c3ed5cf14f00")
+	)
+	(no_connect
+		(at 154.94 66.04)
+		(uuid "827a545d-db35-4db1-86cc-6468cf2f5dee")
+	)
+	(no_connect
+		(at 142.24 63.5)
+		(uuid "8f9f2c77-1313-485a-a471-4db79942413e")
+	)
+	(no_connect
+		(at 142.24 58.42)
+		(uuid "9266ae3d-4d30-4b9a-8c5c-e436613ed5bb")
+	)
+	(no_connect
+		(at 142.24 60.96)
+		(uuid "926eebf0-6968-4502-97cc-184f575a5bce")
+	)
+	(no_connect
 		(at 87.63 90.17)
 		(uuid "959893b0-974e-47d2-a97f-34365fc2c871")
 	)
 	(no_connect
+		(at 154.94 53.34)
+		(uuid "a8aef106-fc45-489c-9952-1dab07d639f2")
+	)
+	(no_connect
+		(at 154.94 58.42)
+		(uuid "ab59f90b-abd5-456d-88f5-46064dcd6f2d")
+	)
+	(no_connect
+		(at 142.24 55.88)
+		(uuid "ac7aea00-9b76-450a-828d-8fdf54c99dd9")
+	)
+	(no_connect
+		(at 154.94 60.96)
+		(uuid "b5caab0f-688e-4f9c-8fa7-2d36dfe6b096")
+	)
+	(no_connect
+		(at 154.94 83.82)
+		(uuid "b95e8027-f4df-465f-9dcf-06e5f754dee4")
+	)
+	(no_connect
+		(at 154.94 88.9)
+		(uuid "be43ab42-e610-4e42-a218-d14d2e0a2917")
+	)
+	(no_connect
+		(at 154.94 50.8)
+		(uuid "c5ecb075-9733-4291-9be4-789ea509f772")
+	)
+	(no_connect
+		(at 154.94 71.12)
+		(uuid "cb639012-4f1e-4315-86f5-67e0df7352d4")
+	)
+	(no_connect
+		(at 142.24 81.28)
+		(uuid "cb964f8c-a752-4f72-abcc-e97d24cfa046")
+	)
+	(no_connect
 		(at 87.63 107.95)
 		(uuid "d25622cb-a7df-434a-b540-0d64eca6429d")
+	)
+	(no_connect
+		(at 142.24 86.36)
+		(uuid "d3808c55-f318-437a-95b5-df9f9f617759")
+	)
+	(no_connect
+		(at 154.94 91.44)
+		(uuid "d7410447-c30d-4d52-8eba-b9abb09c0ad2")
+	)
+	(no_connect
+		(at 154.94 43.18)
+		(uuid "d7ddc85f-e099-4f31-a30b-bf3811cd2721")
+	)
+	(no_connect
+		(at 142.24 68.58)
+		(uuid "d8400616-d245-47ae-b468-3d52b86c2ee6")
+	)
+	(no_connect
+		(at 142.24 45.72)
+		(uuid "e4e552d4-ab65-4b91-ac12-c944e0620f7a")
 	)
 	(no_connect
 		(at 87.63 87.63)
@@ -5813,6 +6068,42 @@
 	(no_connect
 		(at 87.63 82.55)
 		(uuid "e90a6698-8277-447a-9877-90e017177e97")
+	)
+	(no_connect
+		(at 154.94 35.56)
+		(uuid "f08ddc3b-cc9b-4f5c-8f9a-02691579b4ed")
+	)
+	(no_connect
+		(at 154.94 38.1)
+		(uuid "f391c91c-e1a7-4a4c-b3ea-9a8e8d631bf9")
+	)
+	(no_connect
+		(at 142.24 109.22)
+		(uuid "f49f10e1-7f42-42d0-b760-a882f3e48811")
+	)
+	(no_connect
+		(at 142.24 73.66)
+		(uuid "f698f0e6-0cfb-4108-a249-32e60a1d8b4b")
+	)
+	(no_connect
+		(at 154.94 76.2)
+		(uuid "f6c2fbef-1b19-4cb4-8fb5-852cc1a20aed")
+	)
+	(no_connect
+		(at 154.94 78.74)
+		(uuid "f772e844-63f3-4ef7-91a3-b2800871fb28")
+	)
+	(no_connect
+		(at 154.94 45.72)
+		(uuid "f9f553a4-b536-4967-9432-178dc8ab1bc0")
+	)
+	(no_connect
+		(at 142.24 48.26)
+		(uuid "fd340aba-b3e1-4536-a832-df766d355ad5")
+	)
+	(no_connect
+		(at 154.94 63.5)
+		(uuid "ffa861c6-843f-4e88-a983-925c414477e5")
 	)
 	(wire
 		(pts
@@ -6859,6 +7150,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 40.64 132.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0242a03e-bb4a-46a8-b140-cb4564ab500c")
+		(property "Reference" "H1"
+			(at 43.18 130.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 43.18 133.3499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 40.64 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 40.64 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 40.64 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/427b5325-8c95-4ba8-bd99-45fce68a0bf0"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Thruster_Control_Components:ESC")
 		(at 210.82 100.33 0)
 		(unit 1)
@@ -7334,6 +7689,70 @@
 			(project "twobo_thrusters"
 				(path "/427b5325-8c95-4ba8-bd99-45fce68a0bf0"
 					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 60.96 132.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "48fa49da-328d-4f5f-819a-35dd17d40838")
+		(property "Reference" "H2"
+			(at 63.5 130.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 63.5 133.3499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 60.96 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 60.96 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 60.96 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "twobo_thrusters"
+				(path "/427b5325-8c95-4ba8-bd99-45fce68a0bf0"
+					(reference "H2")
 					(unit 1)
 				)
 			)
@@ -7899,6 +8318,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 40.64 140.97 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9054d19e-9479-46dd-8b59-e75a340eacc8")
+		(property "Reference" "H3"
+			(at 43.18 139.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 43.18 142.2399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 40.64 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 40.64 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 40.64 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "twobo_thrusters"
+				(path "/427b5325-8c95-4ba8-bd99-45fce68a0bf0"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+12V")
 		(at 240.03 96.52 0)
 		(unit 1)
@@ -8191,6 +8674,70 @@
 			(project ""
 				(path "/427b5325-8c95-4ba8-bd99-45fce68a0bf0"
 					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 60.96 140.97 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9e5cb24d-e56c-41af-950b-ab315d467c2d")
+		(property "Reference" "H4"
+			(at 63.5 139.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 63.5 142.2399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 60.96 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 60.96 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 60.96 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "twobo_thrusters"
+				(path "/427b5325-8c95-4ba8-bd99-45fce68a0bf0"
+					(reference "H4")
 					(unit 1)
 				)
 			)
@@ -8959,7 +9506,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "custom_components:Samtec_HLE-140-02-L-DV-PE_2x40_P2.54mm_Horizontal"
+		(property "Footprint" "Samtec Custom:Samtec_HLE-140-02-L-DV-PE_2x40_P2.54mm_Horizontal"
 			(at 147.32 83.82 0)
 			(effects
 				(font
