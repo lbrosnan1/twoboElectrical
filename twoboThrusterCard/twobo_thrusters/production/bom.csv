@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"A1, A2, A3",SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm,3,SolderJumper_2_Open,
+C2,0805,1,10u,
+D1,LED_D5.0mm-4_RGB,1,LED_RGAB,
+I2C_PWM_DRIVER1,TSSOP-28_4.4x9.7mm_P0.65mm,1,PCA9685,
+J2,Molex_Micro-Fit_3.0_43650-0900_1x09_P3.00mm_Horizontal,1,Conn_01x09,
+J5,Samtec_HLE-140-02-L-DV-PE_2x40_P2.54mm_Horizontal,1,Conn_02x40_Odd_Even,
+"R1, R2, R3",0805,3,220,
+"U2, U3, U4",ESC_blue_robotics,3,~,
